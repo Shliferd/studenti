@@ -2,7 +2,6 @@
   <library name="Maven: org.hibernate:hibernate-core:5.2.10.Final">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/" />
-      <root url="file://D:/mysql-connector-java-5.0.8" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final-javadoc.jar!/" />
@@ -11,6 +10,5 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final-sources.jar!/" />
       <root url="file://D:/mysql-connector-java-5.0.8/src" />
     </SOURCES>
-    <jarDirectory url="file://D:/mysql-connector-java-5.0.8" recursive="false" />
   </library>
 </component>
